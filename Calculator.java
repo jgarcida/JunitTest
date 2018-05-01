@@ -9,15 +9,4 @@ public class Calculator {
 		return sum;
 	}
 	
-	public String evaluateEmail() {
-		
-		
-		return "";
-	}
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 }
